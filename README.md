@@ -1,7 +1,7 @@
-# 3-Legged OAuth: Calling the Indeed Resume Sourcing API (NodeJS)
+# 3-Legged OAuth: Calling the Indeed Sourcing Platform API (NodeJS)
 
-This sample application illustrates how you can call the Indeed Resume Sourcing
-API to retrieve a list of job candidates. This sample is written using NodeJS.
+This sample application illustrates how you can call the Indeed Sourcing
+Platform API to retrieve a list of job candidates. This sample is written using NodeJS.
 
 ## Getting Started
 
